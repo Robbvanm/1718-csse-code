@@ -1,0 +1,10 @@
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.csproj.CoreCompileInputs.cache
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.AssemblyInfoInputs.cache
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.AssemblyInfo.cs
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.deps.json
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.runtimeconfig.json
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.runtimeconfig.dev.json
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.dll
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\bin\Debug\netcoreapp2.0\1718-csse-code.pdb
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.dll
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\obj\Debug\netcoreapp2.0\1718-csse-code.pdb
