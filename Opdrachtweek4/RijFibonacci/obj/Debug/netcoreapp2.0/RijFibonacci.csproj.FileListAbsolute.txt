@@ -1,0 +1,10 @@
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\bin\Debug\netcoreapp2.0\RijFibonacci.deps.json
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\bin\Debug\netcoreapp2.0\RijFibonacci.runtimeconfig.json
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\bin\Debug\netcoreapp2.0\RijFibonacci.runtimeconfig.dev.json
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\bin\Debug\netcoreapp2.0\RijFibonacci.dll
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\bin\Debug\netcoreapp2.0\RijFibonacci.pdb
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\obj\Debug\netcoreapp2.0\RijFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\obj\Debug\netcoreapp2.0\RijFibonacci.AssemblyInfoInputs.cache
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\obj\Debug\netcoreapp2.0\RijFibonacci.AssemblyInfo.cs
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\obj\Debug\netcoreapp2.0\RijFibonacci.dll
+C:\Users\robbe\OneDrive\Documenten\GitHub\1718-csse-code\RijFibonacci\obj\Debug\netcoreapp2.0\RijFibonacci.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robbe\\OneDrive\\Documenten\\GitHub\\1718-csse-code\\Opdrachtweek3\\1718-csse-code.csproj",
-      "projectName": "1718-csse-code",
-      "projectPath": "C:\\Users\\robbe\\OneDrive\\Documenten\\GitHub\\1718-csse-code\\Opdrachtweek3\\1718-csse-code.csproj",
+      "projectUniqueName": "C:\\Users\\robbe\\OneDrive\\Documenten\\GitHub\\1718-csse-code\\RijFibonacci\\RijFibonacci.csproj",
+      "projectName": "RijFibonacci",
+      "projectPath": "C:\\Users\\robbe\\OneDrive\\Documenten\\GitHub\\1718-csse-code\\RijFibonacci\\RijFibonacci.csproj",
       "packagesPath": "C:\\Users\\robbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robbe\\OneDrive\\Documenten\\GitHub\\1718-csse-code\\Opdrachtweek3\\obj\\",
+      "outputPath": "C:\\Users\\robbe\\OneDrive\\Documenten\\GitHub\\1718-csse-code\\RijFibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
